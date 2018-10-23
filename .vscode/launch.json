@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SchokoladenHandlung",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Aufgabe1.SchokoladenHandlung",
+            "args": "",
+            "projectName": "Hausaufgabe 10"
+        }
+    ]
+}
